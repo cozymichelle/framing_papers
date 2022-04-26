@@ -1,6 +1,6 @@
 # Must-read Papers on Political Framing in Natural Language Processing (NLP)
 
-![](https://img.shields.io/github/last-commit/cozymichelle/framing_papers?color=blue) ![](https://img.shields.io/badge/PaperNumber-110-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/cozymichelle/framing_papers?color=blue) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 ### Contents
 
